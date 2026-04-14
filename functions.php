@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Theme version constant.
  */
-define( 'LUMINARY_VERSION', '1.0.0' );
+define( 'LUMINARY_VERSION', '1.0.2' );
 
 /**
  * Required files.
